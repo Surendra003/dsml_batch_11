@@ -18,11 +18,11 @@ and flood division gets the lower term like 4.67 is 4 also 4.34 is 4
 
 
 # 3.then we learned type conversion like we can convert int into float and 
-complex and vice versa  
+# complex and vice versa  
 
 
 # 4.math comparision operator like equal to(==), not equal to(!=), less than,
-less than equal to, grater than, grater than equal to  
+# less than equal to, grater than, grater than equal to  
 
 
 # 5.and we apply math function  
