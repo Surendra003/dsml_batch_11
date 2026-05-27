@@ -1,4 +1,4 @@
-# In Day 3 we have learned
+# In Day 3 we have learned (DataType : Integer and String)
 
 
 ## 1.Types of numbers like integer,floating and complex number  
