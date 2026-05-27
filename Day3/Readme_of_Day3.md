@@ -1,10 +1,10 @@
 # In Day 3 we have learned
 
 
-# 1.Types of numbers like integer,floating and complex number  
+## 1.Types of numbers like integer,floating and complex number  
 
 
-# 2.and then mathematical operation:  
+## 2.and then mathematical operation:  
 
 
 addition, subtraction, multiplication, division(/), modulus(%),
@@ -17,15 +17,13 @@ exponentiation is nothing but just the power of the input value like 2**2 is 4,
 and flood division gets the lower term like 4.67 is 4 also 4.34 is 4  
 
 
-# 3.then we learned type conversion like we can convert int into float and 
-# complex and vice versa  
+## 3.then we learned type conversion like we can convert int into float and complex and vice versa  
 
 
-# 4.math comparision operator like equal to(==), not equal to(!=), less than,
-# less than equal to, grater than, grater than equal to  
+## 4.math comparision operator like equal to(==), not equal to(!=), less than, less than equal to, grater than, grater than equal to  
 
 
-# 5.and we apply math function  
+## 5.and we apply math function  
 
 
 using :- import math and then use function like floor() which id used to get
@@ -33,7 +31,7 @@ the floor of any number like 4.4 is 4, ceil() is 4.4=5,likewiwe math.gcd(),
 simply round(4.6) is 5, min and max
 
 
-# 6.and string with string operation
+## 6.and string with string operation
 
 
 like concatinate, repetation, indexing, slicing, length of string, and also 
